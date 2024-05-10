@@ -13,14 +13,12 @@ Candy Classifier là một hệ thống được thiết kế để phân loại
     ![Kẹo Xấu Loại 1]
 - **Kẹo Xấu Loại 2**: Kẹo loại 2 có vấn đề về hình thức nhưng vẫn có thể ăn được.
     ![Kẹo Xấu Loại 2]
-(/images/val_batch2_labels.jpg)
-
 ## Yêu Cầu Hệ Thống
 - Python 3.8+
 - PyTorch 1.7+
 - OpenCV 4.5+
 - YOLOv5 (có thể tải về từ [đây](https://github.com/ultralytics/yolov5))
-
+- Data và demo có thể download ở [đây]: (https://drive.google.com/file/d/1wnJCfVBUhWDOHkVdZaxgXraw2_zmjDg6/view?usp=sharing)
 ## Cài Đặt
 Để cài đặt các thư viện cần thiết, chạy lệnh sau trong terminal:
 ```bash
