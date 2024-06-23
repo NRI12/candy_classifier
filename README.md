@@ -18,7 +18,7 @@ Candy Classifier là một hệ thống được thiết kế để phân loại
 - PyTorch 1.7+
 - OpenCV 4.5+
 - YOLOv5 (có thể tải về từ [đây](https://github.com/ultralytics/yolov5))
-- Data và demo có thể download ở [đây]: (https://drive.google.com/file/d/1wnJCfVBUhWDOHkVdZaxgXraw2_zmjDg6/view?usp=sharing)
+- Data và demo có thể download ở [đây]: (https://drive.google.com/file/d/1W0mn00MG2UeS7qfwKEmS9N__MU9Io2xA/view?usp=sharing)
 ## Cài Đặt
 Để cài đặt các thư viện cần thiết, chạy lệnh sau trong terminal:
 ```bash
@@ -27,7 +27,7 @@ pip install -r requirements.txt
 
 ## Cách Sử Dụng
 1. **Chuẩn Bị Dữ Liệu**: Đảm bảo rằng bạn có thư mục `data` chứa các hình ảnh kẹo được gán nhãn.
-2. **Huấn Luyện Mô Hình**: Tham khảo link colab https://colab.research.google.com/drive/1UwIZRwjybRsEuc68Pd1QClgwc-rcElD_?usp=sharing
+2. **Huấn Luyện Mô Hình**: Tham khảo link colab https://colab.research.google.com/drive/1HEMoX1lYk3WRWEmVy_1cgiXFY6r6Luyn?usp=sharing
 3. **Đánh Giá Mô Hình**: 
     ![Đánh Giá Mô Hình](/images/results.png)
 4. **Dự Đoán**: Để thực hiện dự đoán trên những hình ảnh mới với tùy biến của bạn, sử dụng `code_tuybien.py`.
